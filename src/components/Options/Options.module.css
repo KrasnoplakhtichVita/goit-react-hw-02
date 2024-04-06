@@ -1,0 +1,19 @@
+.btnConteiner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.button {
+  background-color: #d3d0d0;
+  border: 1px solid #000;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.button:hover {
+  background-color: #64b94a;
+  cursor: pointer;
+  border-color: #64b94a;
+}
